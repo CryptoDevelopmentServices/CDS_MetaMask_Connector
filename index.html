@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name = "keywords" content = "Crypto, CDS, Crypto Development Services" />
     <meta name = "description" content = "Crypto Development Services" />
-	  
-    
+
+
 
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.cryptodevservices.com/" />
@@ -50,6 +50,22 @@
                         </ul>
                     </div>
                 </section>
+                <footer>
+    <div class="footer-content">
+      <div class="social-media-icons">
+        <a class="icon" href="https://twitter.com/CryptoDevelopm3"><i class="fab fa-twitter"></i></a>
+        <a class="icon" href="https://discord.gg/xUZNT9Zzcp"><i class="fab fa-discord"></i></a>
+        <a class="icon" href="https://github.com/CryptoDevelopmentServices/Multi-Token_MetaMask-Connector"><i class="fab fa-github"></i></a>
+      </div>
+
+      <div class="company-name">
+        <span style="color:#000"> Did you know, We have a <a href="https://cryptodevelopmentservices.github.io/CDS_MetaMask_Connector_MATIC/" target="_blank">Polygon </a><img src="./img/polygon.png" width="20px"> version of this connector</span> <br>
+        <span style="color:#000">Created by <a href="https://www.cryptodevservices.com/" target="_blank">Crypto Development Services</a> <img src="./img/cds.png" width="20px"></span> <br>
+        <span style="color:#000">© Crypto Development Services, All rights reserved.</span>
+      </div>
+
+    </div>
+  </footer>
             </div>
           </div>
 
