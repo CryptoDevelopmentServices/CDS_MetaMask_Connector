@@ -59,7 +59,7 @@
       </div>
 
       <div class="company-name">
-        <span style="color:#000"> Did you know, We have a <a href="https://cryptodevelopmentservices.github.io/CDS_MetaMask_Connector_MATIC/" target="_blank">Polygon </a><img src="./img/polygon.png" width="20px"> version of this connector</span> <br>
+        <span style="color:#000"> Did you know, We have a <a href="https://cryptodevelopmentservices.github.io/CDS_MetaMask_Connector_MATIC/" target="_blank">Polygon </a><img src="./img/polygon.png" width="20px"> and a <a href="https://cryptodevelopmentservices.github.io/CDS_MetaMask_Connector_AVAX/" target="_blank">Avalanche </a> <img src="./img/avax.png" width="20px"> version of this connector</span> <br>
         <span style="color:#000">Created by <a href="https://www.cryptodevservices.com/" target="_blank">Crypto Development Services</a> <img src="./img/cds.png" width="20px"></span> <br>
         <span style="color:#000">© Crypto Development Services, All rights reserved.</span>
       </div>
