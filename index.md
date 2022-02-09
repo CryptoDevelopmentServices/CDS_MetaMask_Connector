@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/templatemo-dream-pulse.css" />
     <link rel="stylesheet" href="css/table.css">
+    <link rel="stylesheet" href="css/tip-button.css"/>
     <link rel="icon" href="img/favicon.ico" type="image/ico">
   </head>
   <body>
@@ -45,6 +46,10 @@
                             <div class="list-steps__item-main">
                               <h4><a href="#">MetaMask one click and add</a></h4>
                                 <button class="connectMetaMask">Enable Binance Smart Chain & Add CDS</button>
+
+                                <p>Want to help keep Crypto Development Services connectors running?</p>
+                                <p>You now can by using the pay with metamask function below</p>
+                                <button class="tip-button"></button>
                             </div>
                           </li>
                         </ul>
@@ -79,6 +84,7 @@
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/templatemo-scripts.js"></script>
     <script src="js/connectMetaMask.js"></script>
+    <script src="js/tip-button.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
   </body>
 </html>
